@@ -1,0 +1,141 @@
+body {
+    background: rgb(39, 36, 36);
+}
+
+.card-content {
+    color: #fff;
+    background:#404040;
+    border-radius: 10px;
+}
+
+.white {
+    color: #fff;
+}
+
+.card-main {
+    border: none;
+    background: none;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+/* .w-15  {
+    width: 15%;
+}
+
+.w-40 {
+    width: 40%;
+} */
+
+.detail-icon {
+    font-size: 18px;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+.di-1 {
+    color: #0233d5;
+    background: #3ab3ffc0;
+}
+
+.di-2 {
+    color: rgb(16, 218, 16);
+    background: rgba(184, 232, 184, 0.859);
+}
+
+.di-3 {
+    color: rgb(252, 105, 0);
+    background: rgba(255, 200, 132, 0.845);
+}
+
+.di-4 {
+    color: rgb(251, 16, 55);
+    background: rgb(231, 124, 142);
+}
+
+.up {
+    color: #4caf50;
+}
+
+.down {
+    color: #f44336;
+}
+
+.progress {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    background: none;
+}
+
+.progress-circle {
+    border-radius: 50%;
+    height: auto;
+    border: 5px solid #4caf50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 19px;
+}
+
+.progress-circle span {
+    font-size: 18px;
+}
+
+
+/* 
+.dashboard {
+    display: flex;
+    gap: 10px;
+}
+
+.card {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.total-orders {
+    background-size: cover;
+}
+
+.total-delivered {
+    background-size: cover;
+}
+
+.total-cancelled {
+    background-size: cover;
+}
+
+.total-revenue {
+    background-size: cover;
+}
+
+.details {
+    text-align: center;
+}
+
+.change {
+    display: block;
+    margin-top: 5px;
+}
+
+ */

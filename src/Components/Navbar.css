@@ -1,0 +1,44 @@
+.navbar {
+    padding: 0.5rem 1rem;
+}
+
+.navbar-brand img {
+border-radius: 50%;
+}
+
+.nav-link img {
+border-radius: 50%;
+}
+
+.theme  {
+    background:#404040;
+}  
+
+.search-inp{ 
+    background:#757272;
+    border: none;
+    margin-left: -22px;
+    padding-left: 28px;
+}
+
+.search-icon {
+    z-index: 1;
+    margin-top: 12px;
+    color: #fff;
+}
+
+.nav-icons {
+    color: #bababa ;
+}
+
+@media screen and (max-width: 991px) {
+    .navbar-nav {
+       flex-direction: row;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .form-div {
+        width: 50%;
+    }
+}
